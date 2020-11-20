@@ -1,0 +1,22 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primaryColor">#212121</color>
+    <color name="primaryLightColor">#484848</color>
+    <color name="primaryDarkColor">#000000</color>
+    <color name="secondaryColor">#fafafa</color>
+    <color name="secondaryLightColor">#ffffff</color>
+    <color name="secondaryDarkColor">#c7c7c7</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+    <!--  Authentication screen color theme  -->
+    <color name="backgroundColor">#000000</color>
+    <color name="buttonColor">#ffffff</color>
+    <color name="textColor">#ffffff</color>
+    <color name="buttonTextColor">#000000</color>
+    <color name="textButtonColor">#ffffff</color>
+    <color name="phone_number_error_text">#ff0000</color>
+
+    <color name="exitButtonColor">#FF1E00</color>
+
+</resources>
